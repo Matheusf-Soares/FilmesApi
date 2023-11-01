@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v4UJ2KFj/YHQRKzRIOgISh6Cz7iYIeIpJ6pfQY9u6eaKE1W7u+EayY7ZTM93yu2ZiNBYSMcLQdHXGePlyi8RaA==",
+  "dgSpecHash": "UPbfdNfXJLz6lnqMqJp5zoB3UAPOngnPwehxObV/3/dLQzm0ETrZJEwJdc3U2jmIGbN9bv9UBRFaZENXhPCRsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\MeusDocumentos\\Cursos\\Alura\\C#\\FilmesApi\\FilmesAPI\\FilmesAPI\\FilmesAPI.csproj",
+  "projectFilePath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\MeusDocumentos\\Cursos\\Alura\\C#\\FilmesApi\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

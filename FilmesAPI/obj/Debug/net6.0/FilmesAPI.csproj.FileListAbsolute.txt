@@ -25,3 +25,14 @@ C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesA
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\obj\Debug\net6.0\FilmesAPI.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\obj\Debug\net6.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\obj\Debug\net6.0\ref\FilmesAPI.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

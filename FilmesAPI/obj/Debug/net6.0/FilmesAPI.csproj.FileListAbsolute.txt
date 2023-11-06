@@ -36,3 +36,9 @@ C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesA
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesApi\FilmesAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml

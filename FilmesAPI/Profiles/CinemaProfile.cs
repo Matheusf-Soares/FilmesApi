@@ -9,9 +9,10 @@ namespace FilmesAPI.Profiles
         public CinemaProfile()
         {
             CreateMap<CreateCinemaDto, Cinema>();
+            CreateMap<Cinema, ReadCinemaDto > ()
+                .ForMember(CinemaDto => CinemaDto.Endereco, 
+                    opt => opt.MapFrom(cinema => cinema.Endereco));
             CreateMap<UpdateCinemaDto, Cinema>();
-            CreateMap<Cinema, UpdateCinemaDto>();
-            CreateMap<Cinema, ReadCinemaDto > ();
         }
     }
 }

@@ -42,3 +42,5 @@ C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesA
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\FilmesAPI.xml
 C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\obj\Debug\net6.0\FilmesAPI.xml
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\MeusDocumentos\Cursos\Alura\C#\FilmesAPI\FilmesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
